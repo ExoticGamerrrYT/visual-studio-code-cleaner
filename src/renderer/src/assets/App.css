@@ -1,0 +1,17 @@
+html {
+  background-color: rgb(20, 20, 20);
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+  font-family: 'Noto Sans', sans-serif;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.button-1-container {
+  display: flex;
+  justify-content: center;
+}
